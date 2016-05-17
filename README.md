@@ -1,2 +1,2 @@
 # Gitlab
-Git course
+Git course Lexicon
