@@ -16,5 +16,6 @@ Feature2 changes
 >>>>>>> origin/master
 Feature 4
 Feature 5
-Feature6
-Feature6 changes
+Feature 6
+Feature 6 changes
+Feature 7 added
