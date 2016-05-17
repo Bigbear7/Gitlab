@@ -3,6 +3,3 @@ And some code here...
 =======
 Adding some code here
 Adding yet more code
-
-Fix1
->>>>>>> origin/master
