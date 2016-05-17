@@ -14,3 +14,4 @@ Feature1
 Feature2
 Feature2 changes
 >>>>>>> origin/master
+Feature 4
